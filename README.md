@@ -1,2 +1,3 @@
-# reading_collection
-My To read collection (blogs + publications)
+### collection
+My to-read list
+(blogs + publications)
